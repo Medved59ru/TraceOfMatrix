@@ -1,0 +1,13 @@
+C:\Users\afigi\Desktop\FoxMined\SourceCode\TraceOfMatrix\TraceOfMatrix\bin\Debug\netcoreapp3.1\TraceOfMatrix.exe
+C:\Users\afigi\Desktop\FoxMined\SourceCode\TraceOfMatrix\TraceOfMatrix\bin\Debug\netcoreapp3.1\TraceOfMatrix.deps.json
+C:\Users\afigi\Desktop\FoxMined\SourceCode\TraceOfMatrix\TraceOfMatrix\bin\Debug\netcoreapp3.1\TraceOfMatrix.runtimeconfig.json
+C:\Users\afigi\Desktop\FoxMined\SourceCode\TraceOfMatrix\TraceOfMatrix\bin\Debug\netcoreapp3.1\TraceOfMatrix.runtimeconfig.dev.json
+C:\Users\afigi\Desktop\FoxMined\SourceCode\TraceOfMatrix\TraceOfMatrix\bin\Debug\netcoreapp3.1\TraceOfMatrix.dll
+C:\Users\afigi\Desktop\FoxMined\SourceCode\TraceOfMatrix\TraceOfMatrix\bin\Debug\netcoreapp3.1\TraceOfMatrix.pdb
+C:\Users\afigi\Desktop\FoxMined\SourceCode\TraceOfMatrix\TraceOfMatrix\obj\Debug\netcoreapp3.1\TraceOfMatrix.csprojAssemblyReference.cache
+C:\Users\afigi\Desktop\FoxMined\SourceCode\TraceOfMatrix\TraceOfMatrix\obj\Debug\netcoreapp3.1\TraceOfMatrix.AssemblyInfoInputs.cache
+C:\Users\afigi\Desktop\FoxMined\SourceCode\TraceOfMatrix\TraceOfMatrix\obj\Debug\netcoreapp3.1\TraceOfMatrix.AssemblyInfo.cs
+C:\Users\afigi\Desktop\FoxMined\SourceCode\TraceOfMatrix\TraceOfMatrix\obj\Debug\netcoreapp3.1\TraceOfMatrix.csproj.CoreCompileInputs.cache
+C:\Users\afigi\Desktop\FoxMined\SourceCode\TraceOfMatrix\TraceOfMatrix\obj\Debug\netcoreapp3.1\TraceOfMatrix.dll
+C:\Users\afigi\Desktop\FoxMined\SourceCode\TraceOfMatrix\TraceOfMatrix\obj\Debug\netcoreapp3.1\TraceOfMatrix.pdb
+C:\Users\afigi\Desktop\FoxMined\SourceCode\TraceOfMatrix\TraceOfMatrix\obj\Debug\netcoreapp3.1\TraceOfMatrix.genruntimeconfig.cache
