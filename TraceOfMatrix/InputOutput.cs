@@ -16,7 +16,6 @@ namespace TraceOfMatrix
                     {
                         Console.ForegroundColor = ConsoleColor.Red;
                         Console.Write(" {0,-3}", matrix[i, j]);
-                        
                     }
                     else
                     {
@@ -33,9 +32,11 @@ namespace TraceOfMatrix
         public static int CheckConsole()
         {
             int enteredNumber;
+            
             while (true)
             {
                 Console.WriteLine("HУЖНО ВВЕСТИ ЦЕЛОЕ ЧИСЛО БОЛЬШЕ 0");
+
                 bool parseResult = int.TryParse(Console.ReadLine(), out int numberFromConsole);
                 if (parseResult == true && numberFromConsole > 0)
                 {

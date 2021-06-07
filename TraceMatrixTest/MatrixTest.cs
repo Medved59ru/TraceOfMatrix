@@ -22,7 +22,6 @@ namespace TraceMatrixTest
             matrix[2, 2] = 9;
 
             int result = Matrix.GetTraceOf(matrix);
-
             Assert.AreEqual(15, result);
         }
 
@@ -36,7 +35,6 @@ namespace TraceMatrixTest
             Assert.IsNotNull(matrix[0, 1]);
             Assert.IsNotNull(matrix[1, 0]);
             Assert.IsNotNull(matrix[1, 1]);
-
 
         }
     }
